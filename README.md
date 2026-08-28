@@ -9,11 +9,11 @@ web programming, artificial intelligence, and cybersecurity.
 
 Completed coursework including:
 
-- CS50x — Introduction to Computer Science
-- CS50P — Introduction to Programming with Python
-- CS50W — Web Programming with Python and JavaScript
-- CS50 AI — Introduction to Artificial Intelligence with Python
-- CS50 Cybersecurity — Introduction to Cybersecurity
+- CS50x — Introduction to Computer Science.
+- CS50P — Introduction to Programming with Python.
+- CS50W — Web Programming with Python and JavaScript.
+- CS50 AI — Introduction to Artificial Intelligence with Python.
+- CS50 Cybersecurity — Introduction to Cybersecurity.
 
 ### Programming & Technologies
 
